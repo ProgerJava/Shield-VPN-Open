@@ -1,11 +1,17 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.olejnikov.shield.vpn",
-    "sha256_cert_fingerprints": [
-      "4E:1A:27:59:EE:56:9F:28:49:EA:6F:01:31:3E:7E:69:D3:5C:DE:68:0A:30:3B:DF:59:AF:E1:19:DE:4B:30:0E",
-      "39:F3:DF:97:1F:B2:7B:93:A3:07:9A:CC:C1:3A:69:C4:A7:54:AA:D7:34:1F:D7:4B:66:BC:C3:D6:03:A9:94:47"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.olejnikov.shield.vpn",
+      "sha256_cert_fingerprints": [
+        "4E:1A:27:59:EE:56:9F:28:49:EA:6F:01:31:3E:7E:69:D3:5C:DE:68:0A:30:3B:DF:59:AF:E1:19:DE:4B:30:0E",
+        "39:F3:DF:97:1F:B2:7B:93:A3:07:9A:CC:C1:3A:69:C4:A7:54:AA:D7:34:1F:D7:4B:66:BC:C3:D6:03:A9:94:47",
+        "C0:AA:F9:03:CD:F9:82:9D:53:49:84:81:CB:28:94:D5:3C:8D:77:18:53:1B:48:53:A1:8D:28:14:CA:D4:F3:D8"
+      ]
+    }
   }
-}]
+]
