@@ -8,8 +8,8 @@ This application uses the following open source libraries:
 - **License**: MIT License
 - **License text**: https://opensource.org/licenses/MIT
 
-## icmp4a
-- **Project**: https://github.com/marsounjan/icmp4a
-- **Author**: marsounjan
+## icmpenguin
+- **Project**: https://github.com/impalex/icmpenguin
+- **Author**: Alexander Yaburov
 - **License**: Apache License 2.0
 - **License text**: http://www.apache.org/licenses/LICENSE-2.0
